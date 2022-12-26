@@ -1,16 +1,10 @@
 ## Common ML algorithms implemented from scratch
 ------------------------------------------------
-<img src="images/LinReg.png" width="40%"/>
-<img src="images/BinClass.png" width="40%"/>
-<img src="images/MulClass.png" width="40%"/>
-<img src="images/Kmeans.png" width="40%"/>
-
-<br>
+<img src="images/LinReg.png" width="40%"/> <img src="images/BinClass.png" width="40%"/> <img src="images/MulClass.png" width="40%"/> <img src="images/Kmeans.png" width="40%"/>
 
 ## Included algorithms:
-
 Regression:
-* Linear regression with $L_2$, $L_1$ and $L_{\infin}$ objectives
+* Linear regression with $L_2$, $L_1$ and $L_{\infty}$ objectives
 
 Classification:
 * Logistic regression for binary classification in range $\{0,1\}$
@@ -25,12 +19,8 @@ Clustering:
 Dimensionality reduction:
 * Principal component analysis (PCA)
 
-<br>
-
 ## Tests demo:
 `tests/viz.ipynb`
-
-<br>
 
 ## Installation:
 ```
